@@ -1,0 +1,1 @@
+simple landing page from odin project project landing page
